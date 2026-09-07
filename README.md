@@ -5,6 +5,14 @@
 > 稳定接入 · 按量计费 · 性价比友好  
 > 胃袋AI，量大管饱可劲造。
 
+## 先用真实仓库验证
+
+不要先相信“稳定”口号。按照 [Codex 三项真实仓库试跑](BENCHMARK.md) 记录成功率、重试次数、耗时、Token 和实际扣费，再决定是否继续使用。
+
+- 免费可审查配置生成器：https://t6016884321-maker.github.io/vidai-config-generator/
+- 低门槛试跑：https://api.david-ai.net/register?aff=5SM2BCS7ML2H&utm_source=github&utm_medium=organic&utm_campaign=codex_proof_202609
+- 实时线路状态：https://api.david-ai.net/monitor
+
 ## 快速入口
 
 - 胃袋AI官网：https://api.david-ai.net
