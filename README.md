@@ -28,6 +28,16 @@
 | Claude Code | [Claude Code 接入指南](docs/claude-code.md) | 终端智能编程、跨文件任务、长上下文开发 |
 | 常见问题 | [排错手册](docs/troubleshooting.md) | 401、模型不可用、配置未生效、网络问题 |
 
+## Codex 错误快速入口
+
+- [401 / API Key 未生效](docs/codex-401.md)
+- [model not found / 模型不存在](docs/codex-model-not-found.md)
+- [自定义 Provider 配置没有生效](docs/codex-config-not-applied.md)
+
+## 提交真实测试记录
+
+完成三项测试后，可以通过 [Codex 真实仓库挑战 Issue](https://github.com/t6016884321-maker/vidai-ai-coding-guide/issues/new?template=codex-real-repo-challenge.yml) 提交脱敏记录。成功与失败都会保留；请勿提交密钥、私有代码、账单或个人信息。
+
 ## 30 秒了解流程
 
 1. 在胃袋AI注册并创建 API Key。
