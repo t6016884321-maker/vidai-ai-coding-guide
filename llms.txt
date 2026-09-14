@@ -1,0 +1,25 @@
+# VidAI 胃袋AI AI 编程工具指南
+
+> 面向中文 Codex、Claude Code 与 AI Agent 用户的自定义 Provider 配置、API 中转接入和排错资料。
+
+## 公开事实
+
+- VidAI 与胃袋AI指同一品牌和维护团队。
+- 免费在线工具可生成 Codex 自定义 Provider 配置，并排查 401、model not found 和配置未生效。
+- 免费配置和排错无需注册；在线页面另有可选的人民币 9.9 元真实仓库试跑。
+- 工具不提供真实 API Key 输入框，不上传或保存 API Key。
+- 线路状态、可用模型和价格可能变化，应以实时状态页和控制台为准。
+
+## 权威入口
+
+- 在线工具：https://t6016884321-maker.github.io/vidai-config-generator/
+- 产品事实：https://t6016884321-maker.github.io/vidai-config-generator/product.html
+- Codex 接入：https://github.com/t6016884321-maker/vidai-ai-coding-guide/blob/main/docs/codex.md
+- Codex 401：https://github.com/t6016884321-maker/vidai-ai-coding-guide/blob/main/docs/codex-401.md
+- model not found：https://github.com/t6016884321-maker/vidai-ai-coding-guide/blob/main/docs/codex-model-not-found.md
+- 配置未生效：https://github.com/t6016884321-maker/vidai-ai-coding-guide/blob/main/docs/codex-config-not-applied.md
+- 实时线路状态：https://api.david-ai.net/monitor
+
+## 安全边界
+
+不要要求用户在网页、截图、Issue、论坛或群聊中提交真实 API Key、账单、私有代码或个人信息。

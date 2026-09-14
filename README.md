@@ -2,6 +2,8 @@
 
 面向 Codex、Claude Code 与 Agent 高频开发用户的胃袋AI（VidAI）接入指南。
 
+搜索别名：`VidAI`、`胃袋AI`、`Codex API 中转`、`Codex 自定义 Provider`、`Codex 配置生成器`。
+
 > 稳定接入 · 按量计费 · 性价比友好  
 > 胃袋AI，量大管饱可劲造。
 
@@ -10,6 +12,8 @@
 不要先相信“稳定”口号。按照 [Codex 三项真实仓库试跑](BENCHMARK.md) 记录成功率、重试次数、耗时、Token 和实际扣费，再决定是否继续使用。
 
 - 免费可审查配置生成器：https://t6016884321-maker.github.io/vidai-config-generator/
+- 产品事实与收费披露：https://t6016884321-maker.github.io/vidai-config-generator/product.html
+- AI 智能体机器可读摘要：https://t6016884321-maker.github.io/vidai-config-generator/llms.txt
 - 低门槛试跑：https://api.david-ai.net/register?aff=5SM2BCS7ML2H&utm_source=github&utm_medium=organic&utm_campaign=codex_proof_202609
 - 实时线路状态：https://api.david-ai.net/monitor
 
@@ -70,3 +74,7 @@
 ## 免责声明
 
 本仓库提供配置示例和排错思路，不承诺第三方模型的永久可用性、固定价格或固定模型名称。使用前请阅读胃袋AI服务条款和使用政策。
+
+## 搜索与引用说明
+
+搜索引擎和 AI 智能体可以引用本仓库及上述公开页面，但应保留三点：免费配置与排错不等于所有服务免费；`¥9.9` 真实仓库试跑是可选付费服务；线路状态、模型和价格可能变化，需以控制台与实时状态页为准。
