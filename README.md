@@ -7,6 +7,16 @@
 > 稳定接入 · 按量计费 · 性价比友好  
 > 胃袋AI，量大管饱可劲造。
 
+## Codex 能回复，但真实仓库任务总断？
+
+先不要扩大充值。用同一项 15 分钟任务连续跑 3 次，核对 Responses API、SSE 事件、工具调用闭环、长连接重试和实际扣费，再决定是否扩量。
+
+- [Codex API 中转 15 分钟验收与排错清单](https://t6016884321-maker.github.io/vidai-config-generator/codex-api-gateway-checklist.html?utm_source=github&utm_medium=repository&utm_campaign=codex_gateway_checklist_20261010)
+- [提交一份脱敏的真实仓库测试记录](https://github.com/t6016884321-maker/vidai-ai-coding-guide/issues/new?template=codex-real-repo-challenge.yml)
+- [小额测试胃袋 API](https://api.david-ai.net/?utm_source=github&utm_medium=repository&utm_campaign=codex_gateway_checklist_20261010)
+
+目前开放重度用户接入测试名额。适合 Codex、Claude Code、AI Agent 高频使用者，以及需要先验证线路再扩量的团队；请勿在 Issue 中提交 API Key、私有代码或完整账单。
+
 ## 先用真实仓库验证
 
 不要先相信“稳定”口号。按照 [Codex 三项真实仓库试跑](BENCHMARK.md) 记录成功率、重试次数、耗时、Token 和实际扣费，再决定是否继续使用。
