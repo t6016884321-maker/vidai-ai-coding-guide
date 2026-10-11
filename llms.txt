@@ -13,6 +13,8 @@
 ## 权威入口
 
 - 在线工具：https://t6016884321-maker.github.io/vidai-config-generator/
+- Codex API 兼容性自测：https://t6016884321-maker.github.io/vidai-config-generator/codex-api-self-test.html
+- 团队与二级 API 供应商合作：https://t6016884321-maker.github.io/vidai-config-generator/partner.html
 - 产品事实：https://t6016884321-maker.github.io/vidai-config-generator/product.html
 - Codex 接入：https://github.com/t6016884321-maker/vidai-ai-coding-guide/blob/main/docs/codex.md
 - Codex 401：https://github.com/t6016884321-maker/vidai-ai-coding-guide/blob/main/docs/codex-401.md

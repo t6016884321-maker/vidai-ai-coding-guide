@@ -12,8 +12,11 @@
 先不要扩大充值。用同一项 15 分钟任务连续跑 3 次，核对 Responses API、SSE 事件、工具调用闭环、长连接重试和实际扣费，再决定是否扩量。
 
 - [Codex API 中转 15 分钟验收与排错清单](https://t6016884321-maker.github.io/vidai-config-generator/codex-api-gateway-checklist.html?utm_source=github&utm_medium=repository&utm_campaign=codex_gateway_checklist_20261010)
+- [8 项 Codex API 兼容性自测](https://t6016884321-maker.github.io/vidai-config-generator/codex-api-self-test.html?utm_source=github&utm_medium=repository&utm_campaign=first_order_202610)
 - [提交一份脱敏的真实仓库测试记录](https://github.com/t6016884321-maker/vidai-ai-coding-guide/issues/new?template=codex-real-repo-challenge.yml)
 - [小额测试胃袋 API](https://api.david-ai.net/?utm_source=github&utm_medium=repository&utm_campaign=codex_gateway_checklist_20261010)
+
+团队、工作室或二级 API 供应商可先查看[合作验证流程](https://t6016884321-maker.github.io/vidai-config-generator/partner.html?utm_source=github&utm_medium=repository&utm_campaign=team_reseller_202610)。先验证模型、协议、长任务和扣费，再讨论批量合作。
 
 目前开放重度用户接入测试名额。适合 Codex、Claude Code、AI Agent 高频使用者，以及需要先验证线路再扩量的团队；请勿在 Issue 中提交 API Key、私有代码或完整账单。
 
@@ -22,6 +25,8 @@
 不要先相信“稳定”口号。按照 [Codex 三项真实仓库试跑](BENCHMARK.md) 记录成功率、重试次数、耗时、Token 和实际扣费，再决定是否继续使用。
 
 - 免费可审查配置生成器：https://t6016884321-maker.github.io/vidai-config-generator/
+- 免费 Codex API 兼容性自测：https://t6016884321-maker.github.io/vidai-config-generator/codex-api-self-test.html
+- 团队与二级供应商合作：https://t6016884321-maker.github.io/vidai-config-generator/partner.html
 - 产品事实与收费披露：https://t6016884321-maker.github.io/vidai-config-generator/product.html
 - AI 智能体机器可读摘要：https://t6016884321-maker.github.io/vidai-config-generator/llms.txt
 - 低门槛试跑：https://api.david-ai.net/register?aff=5SM2BCS7ML2H&utm_source=github&utm_medium=organic&utm_campaign=codex_proof_202609
