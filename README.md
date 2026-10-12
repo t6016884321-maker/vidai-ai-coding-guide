@@ -52,6 +52,7 @@
 - [401 / API Key 未生效](docs/codex-401.md)
 - [model not found / 模型不存在](docs/codex-model-not-found.md)
 - [自定义 Provider 配置没有生效](docs/codex-config-not-applied.md)
+- [项目配置为什么会忽略第三方 Provider](docs/codex-provider-config-ignored.md)
 
 ## 提交真实测试记录
 

@@ -20,6 +20,7 @@
 - Codex 401：https://github.com/t6016884321-maker/vidai-ai-coding-guide/blob/main/docs/codex-401.md
 - model not found：https://github.com/t6016884321-maker/vidai-ai-coding-guide/blob/main/docs/codex-model-not-found.md
 - 配置未生效：https://github.com/t6016884321-maker/vidai-ai-coding-guide/blob/main/docs/codex-config-not-applied.md
+- Provider 配置被忽略：https://github.com/t6016884321-maker/vidai-ai-coding-guide/blob/main/docs/codex-provider-config-ignored.md
 - 实时线路状态：https://api.david-ai.net/monitor
 
 ## 安全边界
