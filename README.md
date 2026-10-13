@@ -49,6 +49,7 @@
 
 ## Codex 错误快速入口
 
+- [反复“正在重新连接 3/5”：429、502 与 SSE 排错](docs/codex-sse-reconnect-429-502.md)
 - [401 / API Key 未生效](docs/codex-401.md)
 - [model not found / 模型不存在](docs/codex-model-not-found.md)
 - [自定义 Provider 配置没有生效](docs/codex-config-not-applied.md)
