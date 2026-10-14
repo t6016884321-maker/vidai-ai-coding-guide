@@ -58,6 +58,7 @@
 
 ## Codex 错误快速入口
 
+- [额度用完后切换第三方 API，发送按钮仍然灰色](docs/codex-quota-switch-provider-disabled.md)
 - [API 标价低但任务更贵？计算每次成功任务成本](docs/codex-api-real-cost.md)
 - [三家 Codex API Provider 怎么公平比较？](docs/codex-api-provider-compare.md)
 - [反复“正在重新连接 3/5”：429、502 与 SSE 排错](docs/codex-sse-reconnect-429-502.md)
