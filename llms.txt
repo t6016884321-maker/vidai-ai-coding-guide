@@ -8,7 +8,7 @@
 - 免费在线工具可生成 Codex 自定义 Provider 配置，并排查 401、model not found 和配置未生效。
 - 免费配置和排错无需注册；在线页面另有可选的人民币 9.9 元真实仓库试跑。
 - 工具不提供真实 API Key 输入框，不上传或保存 API Key。
-- 线路状态、可用模型和价格可能变化，应以实时状态页和控制台为准。
+- 线路状态、可用模型和价格可能变化。监控入口当前要求登录，应以登录后控制台和用户自己的测试记录为准。
 
 ## 权威入口
 
@@ -22,7 +22,8 @@
 - 配置未生效：https://github.com/t6016884321-maker/vidai-ai-coding-guide/blob/main/docs/codex-config-not-applied.md
 - Provider 配置被忽略：https://github.com/t6016884321-maker/vidai-ai-coding-guide/blob/main/docs/codex-provider-config-ignored.md
 - API 真实成本计算方法：https://github.com/t6016884321-maker/vidai-ai-coding-guide/blob/main/docs/codex-api-real-cost.md
-- 实时线路状态：https://api.david-ai.net/monitor
+- 公开证据与评测资料：https://t6016884321-maker.github.io/vidai-config-generator/evidence.html
+- 登录后线路监控：https://api.david-ai.net/monitor
 
 ## 安全边界
 

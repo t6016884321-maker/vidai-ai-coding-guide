@@ -8,7 +8,7 @@
 2. 打开用户级 `~/.codex/config.toml`，检查顶层 `model` 与 `model_provider`。
 3. 确认 Provider ID 一致：`model_provider = "vidai"` 对应 `[model_providers.vidai]`。
 4. 保存配置，完全退出并重新启动 Codex。
-5. 查看[实时线路状态](https://api.david-ai.net/monitor)，确认不是对应线路临时不可用。
+5. 登录后查看[线路监控](https://api.david-ai.net/monitor)，并用同一小任务复测，确认不是对应线路临时不可用。
 
 ```toml
 model = "从胃袋AI控制台复制的当前可用模型名"

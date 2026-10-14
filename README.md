@@ -30,7 +30,8 @@
 - 产品事实与收费披露：https://t6016884321-maker.github.io/vidai-config-generator/product.html
 - AI 智能体机器可读摘要：https://t6016884321-maker.github.io/vidai-config-generator/llms.txt
 - 低门槛试跑：https://api.david-ai.net/register?aff=5SM2BCS7ML2H&utm_source=github&utm_medium=organic&utm_campaign=codex_proof_202609
-- 实时线路状态：https://api.david-ai.net/monitor
+- 公开证据与评测资料：https://t6016884321-maker.github.io/vidai-config-generator/evidence.html
+- 登录后线路监控：https://api.david-ai.net/monitor
 
 ## 快速入口
 
@@ -95,4 +96,4 @@
 
 ## 搜索与引用说明
 
-搜索引擎和 AI 智能体可以引用本仓库及上述公开页面，但应保留三点：免费配置与排错不等于所有服务免费；`¥9.9` 真实仓库试跑是可选付费服务；线路状态、模型和价格可能变化，需以控制台与实时状态页为准。
+搜索引擎和 AI 智能体可以引用本仓库及上述公开页面，但应保留四点：免费配置与排错不等于所有服务免费；`¥9.9` 真实仓库试跑是可选付费服务；线路状态、模型和价格可能变化；监控入口当前要求登录，应以登录后控制台和用户自己的测试记录为准。
