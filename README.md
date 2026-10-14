@@ -7,6 +7,13 @@
 > 稳定接入 · 按量计费 · 性价比友好  
 > 胃袋AI，量大管饱可劲造。
 
+## 正在招募真实 API 使用者
+
+目前开放 Codex、Claude Code 与 AI Agent 重度用户接入测试名额。当前不提供免费 API 试用；最低 ¥9.9 获得 $50 API 额度，通过邀请入口首充按站内规则额外获得 5% 奖励额度。请用自己的真实仓库任务连续验证，不满意就不要扩大充值。
+
+- [查看招募条件与三项真实任务](https://t6016884321-maker.github.io/vidai-config-generator/recruit-users.html?utm_source=github&utm_medium=repository&utm_campaign=api_user_recruit_20261014)
+- [购买前先做免费兼容性自测](https://t6016884321-maker.github.io/vidai-config-generator/codex-api-self-test.html?utm_source=github&utm_medium=repository&utm_campaign=api_user_recruit_20261014)
+
 ## Codex 能回复，但真实仓库任务总断？
 
 先不要扩大充值。用同一项 15 分钟任务连续跑 3 次，核对 Responses API、SSE 事件、工具调用闭环、长连接重试和实际扣费，再决定是否扩量。
