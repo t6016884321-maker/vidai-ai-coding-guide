@@ -49,6 +49,7 @@
 
 ## Codex 错误快速入口
 
+- [API 标价低但任务更贵？计算每次成功任务成本](docs/codex-api-real-cost.md)
 - [反复“正在重新连接 3/5”：429、502 与 SSE 排错](docs/codex-sse-reconnect-429-502.md)
 - [401 / API Key 未生效](docs/codex-401.md)
 - [model not found / 模型不存在](docs/codex-model-not-found.md)
