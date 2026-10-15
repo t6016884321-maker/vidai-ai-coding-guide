@@ -58,6 +58,7 @@
 
 ## Codex 错误快速入口
 
+- [配置里出现 127.0.0.1：CC Switch 本地代理正常吗？](docs/codex-cc-switch-local-proxy-127001.md)
 - [额度用完后切换第三方 API，发送按钮仍然灰色](docs/codex-quota-switch-provider-disabled.md)
 - [API 标价低但任务更贵？计算每次成功任务成本](docs/codex-api-real-cost.md)
 - [三家 Codex API Provider 怎么公平比较？](docs/codex-api-provider-compare.md)
